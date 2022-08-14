@@ -1,4 +1,5 @@
-[
+{
+  "users":[
   {
     "id": 1,
     "username": "admin",
@@ -18,3 +19,4 @@
     "role": "Docente"
   }
 ]
+}
