@@ -5,6 +5,7 @@
     "username": "admin",
     "password": "admin",
     "role": "Administrador",
+    "icon": "https://png.pngtree.com/png-vector/20190301/ourlarge/pngtree-vector-administration-icon-png-image_747092.jpg",
     "items": [
             {
                 "itemid": "1",
