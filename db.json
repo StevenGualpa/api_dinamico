@@ -4,19 +4,110 @@
     "id": 1,
     "username": "admin",
     "password": "admin",
-    "role": "Administrador"
+    "role": "Administrador",
+    "items": [
+            {
+                "itemid": "1",
+                "itemname": "Inicio",
+                "itemurlicono": "15"
+            },
+            {
+                "itemid": "2",
+                "itemname": "Camara",
+                "itemurlicono": "15"
+            },
+            {
+                "itemid": "3",
+                "itemname": "Microfono",
+                "itemurlicono": "15"
+            },
+            {
+                "itemid": "4",
+                "itemname": "Materias",
+                "itemurlicono": "15"
+            },
+            {
+                "itemid": "5",
+                "itemname": "Cursos",
+                "itemurlicono": "15"
+            },
+            {
+                "itemid": "6",
+                "itemname": "Salir",
+                "itemurlicono": "15"
+            }
+        ]
   },
   {
     "id": 2,
     "username": "Steven",
     "password": "123456",
-    "role": "Estudiante"
+    "role": "Estudiante",
+      "items": [
+            {
+                "itemid": "1",
+                "itemname": "Inicio",
+                "itemurlicono": "15"
+            },
+            {
+                "itemid": "2",
+                "itemname": "Materias",
+                "itemurlicono": "15"
+            },
+            {
+                "itemid": "3",
+                "itemname": "Cursos",
+                "itemurlicono": "15"
+            },
+            {
+                "itemid": "4",
+                "itemname": "Salir",
+                "itemurlicono": "15"
+            }
+        ]
   },
   {
     "id": 3,
     "username": "uteq",
     "password": "uteq",
-    "role": "Docente"
+    "role": "Docente",
+        "items": [
+            {
+                "itemid": "1",
+                "itemname": "Inicio",
+                "itemurlicono": "15"
+            },
+            {
+                "itemid": "2",
+                "itemname": "Camara",
+                "itemurlicono": "15"
+            },
+            {
+                "itemid": "3",
+                "itemname": "Microfono",
+                "itemurlicono": "15"
+            },
+            {
+                "itemid": "4",
+                "itemname": "Materias",
+                "itemurlicono": "15"
+            },
+            {
+                "itemid": "5",
+                "itemname": "Horario",
+                "itemurlicono": "15"
+            },
+            {
+                "itemid": "6",
+                "itemname": "Cursos",
+                "itemurlicono": "15"
+            },
+            {
+                "itemid": "7",
+                "itemname": "Salir",
+                "itemurlicono": "15"
+            }
+        ]
   }
 ]
 }
