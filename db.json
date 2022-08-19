@@ -44,6 +44,7 @@
     "username": "Steven",
     "password": "123456",
     "role": "Estudiante",
+    "icon": "https://w7.pngwing.com/pngs/241/840/png-transparent-computer-icons-student-school-student-angle-people-logo.png",
       "items": [
             {
                 "itemid": "1",
@@ -72,6 +73,7 @@
     "username": "uteq",
     "password": "uteq",
     "role": "Docente",
+    "icon": "https://png.pngtree.com/png-vector/20190726/ourmid/pngtree-vector-lecturer-icon-png-image_1610399.jpg",
         "items": [
             {
                 "itemid": "1",
